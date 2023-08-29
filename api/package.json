@@ -4,7 +4,8 @@
     "description": "It is a social-networking web app for farmers.",
     "main": "app.js",
     "scripts": {
-        "start": ""
+        "start": "",
+        "build": "npm i"
     },
     "author": "Anurag Nayak",
     "license": "ISC",
